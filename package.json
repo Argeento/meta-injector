@@ -1,0 +1,29 @@
+{
+  "name": "meta-injector",
+  "version": "0.0.1",
+  "description": "Meta information injector to http response in SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meta",
+    "tags",
+    "incjector",
+    "og",
+    "open graph",
+    "facebook",
+    "twitter",
+    "vue",
+    "react",
+    "angular",
+    "spa"
+  ],
+  "author": "Adrian Wieprzkowicz",
+  "license": "MIT",
+  "dependencies": {
+    "parseurl": "^1.3.2",
+    "send": "^0.16.2",
+    "url-pattern": "^1.0.3"
+  }
+}
